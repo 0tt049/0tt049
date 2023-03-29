@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to [Otavio Coelho](https://www.github.com/0tt049)'s Profile 🚀
 
-<!--
-**0tt049/0tt049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *Full-stack developer*
 
-Here are some ideas to get you started:
+- 👋 Hi, I’m @0tt049.
+- ❤️ I love programming, mostly in Ruby.
+- 🧐 Portfolio [Website](https://mrbluebird2.github.io).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Stats 👇
+
+![Otavio's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=0tt049&show_icon=true&include_all_commits=true&theme=dark#gh_dark_mode_only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0tt049&langs_count=10&layout=compact&theme=dark#gh_dark_mode_only)
+
+```text
+🔥 Editors:
+Emacs
+█████████████████████░░░░░░░░░   70%
+Vim
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
+VSCode
+██████░░░░░░░░░░░░░░░░░░░░░░░░   20%
+
+💻 Operating System:
+Linux Arch
+██████████████████████████████   100.0%
+```
