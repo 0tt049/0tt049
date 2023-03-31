@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @0tt049.
 - ❤️ I love programming, mostly in Ruby.
-- 🧐 Portfolio [Website](https://wwww.otaviocoelho.com).
+- 🧐 Portfolio [Website](https://www.otaviocoelho.com).
 
 ## My Stats 👇
 
