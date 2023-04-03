@@ -2,8 +2,8 @@
 
 ## *Full-stack developer*
 
-- 👋 Hi, I’m @0tt049.
-- ❤️ I love programming, mostly in Ruby.
+- I used to be an architect and a hobby woodworker, then woodworker and a hobby programmer, now programmer. 
+- I'm aiming at full proficiency WebGL 
 - 🧐 Portfolio [Website](https://www.otaviocoelho.com).
 
 ## My Stats 👇
@@ -20,7 +20,9 @@ Vim
 VSCode
 ██████░░░░░░░░░░░░░░░░░░░░░░░░   20%
 
-💻 Operating System:
-Linux Arch
-██████████████████████████████   100.0%
+🦗 Distro Hopping Timeline:
+Mint(Cinnamon) -> Ubuntu(Gnome) -> Arco(i3) -> Manjaro(i3) -> MX(Fluxbox) -> Endeavor(i3) -> Manjaro(i3) -> openSUSE(KDE) -> ???
+
+📚 Language Learning Timeline:
+C -> Python -> Javascript -> Sml -> Racket -> eLisp -> Ruby -> ???
 ```
