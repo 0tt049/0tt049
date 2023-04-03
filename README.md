@@ -8,7 +8,7 @@
 
 ## My Stats 👇
 
-[[https://github-readme-stats.anuraghazra1.vercel.app/api?username=0tt049&show_icon=true&include_all_commits=true&theme=dark#gh_dark_mode_only][Stats]]
+![My Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=0tt049&show_icon=true&include_all_commits=true&theme=dark#gh_dark_mode_only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0tt049&langs_count=10&layout=compact&theme=dark#gh_dark_mode_only)
 
 ```text
