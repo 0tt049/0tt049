@@ -4,7 +4,6 @@
 
 - I used to be an architect and a hobby woodworker, then woodworker and a hobby programmer, now programmer. 
 - I'm aiming at full WebGL proficiency by the end of the semester.
-- 🧐 Portfolio [Website](https://www.otaviocoelho.com).
 
 ## My Stats 👇
 
