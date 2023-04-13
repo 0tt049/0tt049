@@ -15,13 +15,13 @@
 Emacs
 █████████████████████░░░░░░░░░   70%
 Vim
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
-VSCode
 ██████░░░░░░░░░░░░░░░░░░░░░░░░   20%
+VSCode
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
 
 🦗 Distro Hopping Timeline:
-Mint(Cinnamon) -> Ubuntu(Gnome) -> Arco(i3) -> Manjaro(i3) -> MX(Fluxbox) -> Endeavor(i3) -> Manjaro(i3) -> openSUSE(KDE) -> ???
+Mint(Cinnamon) -> Ubuntu(Gnome) -> Arco(i3) -> Manjaro(i3) -> MX(Fluxbox) -> Endeavor(i3) -> openSUSE(KDE) -> Manjaro(KDE)
 
 📚 Language Learning Timeline:
-C -> Python -> Javascript -> Sml -> Racket -> eLisp -> Ruby -> ???
+C -> Python -> Javascript -> Ruby -> EmacsLisp -> ???
 ```
