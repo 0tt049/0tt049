@@ -1,3 +1,4 @@
-#+title:     CV
+#+title:     Otavio Coelho
 #+author:    Otavio Coelho
 #+email:     otavio.gmcoelho@gmail.com
+#+DESCRIPTION: Software Developer
