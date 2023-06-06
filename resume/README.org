@@ -1,4 +1,2 @@
 #+title:     Otavio Coelho
-## Software Developer
-#+author:    Otavio Coelho
-#+email:     otavio.gmcoelho@gmail.com
+** Software Developer
