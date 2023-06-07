@@ -2,7 +2,7 @@
 ## Software Developer
 
 
-- Location: [São Paulo, Brazil]
+- :pushpin: São Paulo, Brazil
 [![Phone](./phone-solid.svg) (+55) 11 976460118]()
 [![Mail](./envelope-solid.svg) otavio.gmcoelho@gmail.com](mailto:otavio.gmcoelho@gmail.com)
 [![Homepage](./house-solid.svg) otaviocoelho.com](https://otaviocoelho.com)
