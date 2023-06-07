@@ -1,11 +1,8 @@
-<link rel="stylesheet" type="text/css" href="resume.css">
+# Otavio Coelho
+## Software Developer
 
-<span class="name">Otavio Coelho</span>
-<span class="name">Software Developer</span>
 
-<span class="info">
-
-[![Adress](./location-dot-solid.svg) São Paulo, Brazil]()
+- Location: [São Paulo, Brazil]
 [![Phone](./phone-solid.svg) (+55) 11 976460118]()
 [![Mail](./envelope-solid.svg) otavio.gmcoelho@gmail.com](mailto:otavio.gmcoelho@gmail.com)
 [![Homepage](./house-solid.svg) otaviocoelho.com](https://otaviocoelho.com)
@@ -59,7 +56,7 @@ PyQt tool used for searching, downloading, reading and annotating PDFs from Gute
 
 <location>ScreenSaver DAO (Blockchain NFT platform)</location>
 
-- Formulated the on-boarding processes of new platform members and artists 
+- Formulated the on-boarding processes of new platform members and artists
 - Wrote technical manual for new artists.
 - Established community guidelines.
 
