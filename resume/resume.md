@@ -1,15 +1,12 @@
 # Otavio Coelho
 ## Software Developer
 
-
-- :pushpin: São Paulo, Brazil
-[![Phone](./phone-solid.svg) (+55) 11 976460118]()
-[![Mail](./envelope-solid.svg) otavio.gmcoelho@gmail.com](mailto:otavio.gmcoelho@gmail.com)
-[![Homepage](./house-solid.svg) otaviocoelho.com](https://otaviocoelho.com)
-[![GitHub](./github.svg) 0tt049](https://github.com/0tt049)
-[![LinkedIn](./linkedin.svg) otavio-coelho](https://linkedin.com/in/otavio-coelho)
-
-</span>
+:pushpin: São Paulo, Brazil
+:phone: +55 11 9 7646 0118
+:mailbox: otavio.gmcoelho@gmail.com
+:house: [otaviocoelho.com](https://otaviocoelh.com)
+:computer: [/0tt049](https://github.com/0tt049)
+:briefcase: [/in/otavio-coelho](https://linkedin.com/in/otavio-coelho)
 
 ## Summary
 
