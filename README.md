@@ -3,7 +3,8 @@
 ## *Full-stack developer*
 
 - I used to be an architect and a hobby woodworker, then woodworker and a hobby programmer, now programmer. 
-- I'm aiming at full WebGL proficiency by the end of the semester.
+- I'm aiming at full WebGPU proficiency by the end of the semester.
+- If I can stop obsessing over A.I.
 
 ## My Stats 👇
 
@@ -15,10 +16,12 @@
 ```text
 🔥 Editors:
 Emacs
-█████████████████████░░░░░░░░░   70%
+██████████████████░░░░░░░░░░░░   60%
 Vim
 ██████░░░░░░░░░░░░░░░░░░░░░░░░   20%
 VSCode
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
+Jupyter
 ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10%
 
 🦗 Distro Hopping Timeline:
